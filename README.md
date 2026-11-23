@@ -1,6 +1,10 @@
 # site-generator-speed-01 — a faster makefun-site 1.0.0
 
-A dependency-free drop-in for make.fun's own makefun-site 1.0.0 static site generator.
+[![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/arifferdiana/site-generator-speed-01-run-20261122-entry/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/arifferdiana/site-generator-speed-01-run-20261122-entry/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+
+A dependency-free drop-in for make.fun's own makefun-site 1.0.0 static site generator, built for the [make.fun bounty "Build a static site faster, 22 November 2026"](https://make.fun/bounty/site-generator-speed-01-run-20261122).
 For one case's input (`{ site, templates, files }`), `run(input)` returns exactly the output
 tree makefun-site returns: a JSON object of every path it writes (each page's `index.html`,
 the index and tag pages, `build-report.txt`, each static file) and that file's text, byte for
